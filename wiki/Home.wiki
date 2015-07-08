@@ -2,6 +2,8 @@
 
 = Introduction =
 
+= MOVED to github https://github.com/nmwael/slurry =
+
 At this writing slurry only consists of one project,
 
 [WikiSyntax cache4guice]
